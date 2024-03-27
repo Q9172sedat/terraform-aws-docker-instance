@@ -16,4 +16,4 @@ module "docker_instance" {
     source = "Q9172sedat/docker-instance/aws"
     key_name = "clarusway"
 }
-```# altGr tuşu virgül basınca cıkıyor
+```
